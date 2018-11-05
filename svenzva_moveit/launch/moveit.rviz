@@ -70,16 +70,6 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          finger_joint_2:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          finger_link_1:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
           link_1:
             Alpha: 1
             Show Axes: false
@@ -101,11 +91,6 @@ Visualization Manager:
             Show Trail: false
             Value: true
           link_5:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          link_6:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -164,16 +149,6 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          finger_joint_2:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          finger_link_1:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
           link_1:
             Alpha: 1
             Show Axes: false
@@ -195,11 +170,6 @@ Visualization Manager:
             Show Trail: false
             Value: true
           link_5:
-            Alpha: 1
-            Show Axes: false
-            Show Trail: false
-            Value: true
-          link_6:
             Alpha: 1
             Show Axes: false
             Show Trail: false
