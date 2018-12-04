@@ -350,6 +350,14 @@
       effort="10"
       velocity="1" />
   </joint>
+
+<link name="camera_link"> </link>
+  <joint name="camera_joint" type="fixed">
+    <parent link="link_5"/>
+    <child link="camera_link"/>
+    <origin xyz="0.06 -0.004452 0.06" rpy="0 0 0"/>
+</joint>
+
   <transmission name="joint_1_trans">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="joint_1">

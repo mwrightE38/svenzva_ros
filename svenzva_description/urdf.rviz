@@ -90,21 +90,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: false
-        link_6:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: false
-        link_finger1:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        link_finger2:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
       Name: RobotModel
       Robot Description: robot_description
       TF Prefix: ""
